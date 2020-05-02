@@ -1,3 +1,0 @@
-[submodule "jwtAuth"]
-	path = jwtAuth
-	url = ./jwtAuth
